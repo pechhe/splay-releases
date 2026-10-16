@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<channel>
+<title>Splay</title>
+<item>
+<title>0.2</title>
+<pubDate>Fri, 16 Oct 2026 16:05:25 +0000</pubDate>
+<sparkle:version>40</sparkle:version>
+<sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+<description><![CDATA[First public beta. Send each Mac app, and each browser tab, to its own speaker, headphones or AirPlay speaker. Free during the beta.]]></description>
+<enclosure url="https://github.com/pechhe/splay-releases/releases/download/v0.2/Splay-0.2.zip" sparkle:edSignature="fxkcZCNVx0Y5do3ccAgOBdWgYVihau460OGi5JNJZAi0U0dyPSnuwZOvCG953n/MQzy4V9gPK7bx0rYN7f4LBA==" length="3772160" type="application/octet-stream"/>
+</item>
+</channel>
+</rss>
