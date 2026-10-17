@@ -3,13 +3,17 @@
 <channel>
 <title>Splay</title>
 <item>
-<title>0.2</title>
-<pubDate>Fri, 16 Oct 2026 16:05:25 +0000</pubDate>
-<sparkle:version>40</sparkle:version>
-<sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+<title>0.3</title>
+<pubDate>Sat, 17 Oct 2026 16:06:40 +0000</pubDate>
+<sparkle:version>62</sparkle:version>
+<sparkle:shortVersionString>0.3</sparkle:shortVersionString>
 <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-<description><![CDATA[First public beta. Send each Mac app, and each browser tab, to its own speaker, headphones or AirPlay speaker. Free during the beta.]]></description>
-<enclosure url="https://github.com/pechhe/splay-releases/releases/download/v0.2/Splay-0.2.zip" sparkle:edSignature="fxkcZCNVx0Y5do3ccAgOBdWgYVihau460OGi5JNJZAi0U0dyPSnuwZOvCG953n/MQzy4V9gPK7bx0rYN7f4LBA==" length="3772160" type="application/octet-stream"/>
+<description><![CDATA[Splay 0.3
+- An equaliser for each app and each output, with presets (Electronic, Hip-hop, Podcast & speech, Laptop speakers and more). Each app now has mute, EQ and menu buttons.
+- Record apps, browser tabs, system sounds and your microphone to M4A or WAV.
+- Fixes clicks when Splay plays an app through the Mac's own speakers.
+- Optional anonymous usage count, off unless you switch it on in Settings › Privacy.]]></description>
+<enclosure url="https://github.com/pechhe/splay-releases/releases/download/v0.3/Splay-0.3.zip" sparkle:edSignature="20m1njElqOn5Wwy2IBBg3UaoYdak6vwbaXGKxMiexm0iYBy/58CI1rwSSVpAIrff7wlIkjhBHK8o1abCFuUIAg==" length="3976449" type="application/octet-stream"/>
 </item>
 </channel>
 </rss>
