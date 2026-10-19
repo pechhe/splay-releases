@@ -3,17 +3,13 @@
 <channel>
 <title>Splay</title>
 <item>
-<title>0.3</title>
-<pubDate>Sat, 17 Oct 2026 16:06:40 +0000</pubDate>
-<sparkle:version>62</sparkle:version>
-<sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+<title>0.4</title>
+<pubDate>Mon, 19 Oct 2026 13:32:22 +0000</pubDate>
+<sparkle:version>69</sparkle:version>
+<sparkle:shortVersionString>0.4</sparkle:shortVersionString>
 <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-<description><![CDATA[Splay 0.3
-- An equaliser for each app and each output, with presets (Electronic, Hip-hop, Podcast & speech, Laptop speakers and more). Each app now has mute, EQ and menu buttons.
-- Record apps, browser tabs, system sounds and your microphone to M4A or WAV.
-- Fixes clicks when Splay plays an app through the Mac's own speakers.
-- Optional anonymous usage count, off unless you switch it on in Settings › Privacy.]]></description>
-<enclosure url="https://github.com/pechhe/splay-releases/releases/download/v0.3/Splay-0.3.zip" sparkle:edSignature="20m1njElqOn5Wwy2IBBg3UaoYdak6vwbaXGKxMiexm0iYBy/58CI1rwSSVpAIrff7wlIkjhBHK8o1abCFuUIAg==" length="3976449" type="application/octet-stream"/>
+<description><![CDATA[Chrome-tab audio no longer cuts out when you switch apps: tab routes now use a deeper buffer.]]></description>
+<enclosure url="https://github.com/pechhe/splay-releases/releases/download/v0.4/Splay-0.4.zip" sparkle:edSignature="LBT9fyPRktZ0oVsuBkKGWD+RYFFS5zdclBrVfzSEB9+e3gQGdR+EeskULHy75/GYOvzJllgNXmqg6FIure4eAA==" length="3968485" type="application/octet-stream"/>
 </item>
 </channel>
 </rss>
